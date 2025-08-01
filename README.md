@@ -1,4 +1,4 @@
-Emergency Vehicle Detection and Intelligent Traffic Management System
+###Emergency Vehicle Detection and Intelligent Traffic Management System
 DSATM'25 Hackathon Project - TEAM S-28 - Copypaste Cult
 🧠 Overview
 This project showcases a real-time, AI-powered emergency vehicle detection and intelligent traffic management system, designed to prioritize life-saving responses. Leveraging deep learning with YOLOv8, computer vision using OpenCV, and interactive simulation built with Pygame, the system autonomously detects emergency vehicles (ambulances, fire trucks, police cars) and dynamically adjusts traffic signals to ensure their swift and safe passage through intersections.
